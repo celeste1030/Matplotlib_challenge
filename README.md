@@ -16,7 +16,7 @@ This project is a challenge to use Matplotlib to analyze and visualize pharmaceu
 - Capomulin and Ramicane are the most effective treatments reducing tumor size at a faster rate.  
 	
 ## Technologies
-Project is created with: Jupiter notebook	
+Project is created with: Jupyter notebook	
 
 ## Setup
 To run this project, install it locally using Jupyter notebook
